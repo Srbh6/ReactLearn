@@ -1,16 +1,18 @@
 import React from "react";
 // import App1 from './Learn/State'
-import Student from './Learn/Props'
+// import Student from './Learn/Props'
+import App2 from './Learn/inputBox'
 function App() {
   return (
     <div >
   
     {/* <App1 /> */}
     
-    <Student name= {"Saurabh"} email= "msaurabh074@gmail.com" />
+    {/* <Student name= {"Saurabh"} email= "msaurabh074@gmail.com" />
     <Student name= {"ironman"} />
     <Student name= {"sam"} />
-    <Student />
+    <Student /> */}
+    <App2 />
     </div>
   )
 }
