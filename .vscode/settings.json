@@ -3,6 +3,7 @@
         "backgroundcolor",
         "getformdata",
         "ironman",
-        "setintrest"
+        "setintrest",
+        "setlogged"
     ]
 }
